@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm [Sameer Walia] 👋
 
-<!--
-**Sameerwalia07/Sameerwalia07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Learning defensive cybersecurity, aiming for a SOC Analyst / Blue Team role.
 
-Here are some ideas to get you started:
+## 🌱 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working through TryHackMe's **Cyber Security 101** path
+- Documenting everything in [cybersecurity-journey](https://github.com/Sameerwalia07/cybersecurity-journey)
+- Building foundational Linux, networking, and security concepts
+
+## ✅ Completed
+
+- TryHackMe — Pre Security path
+
+## 🎯 Next Up
+
+- TryHackMe — SOC Level 1 path
+- LetsDefend.io practical labs
+- Home lab with Splunk/ELK for log analysis practice
+
+## 📫 Find Me
+
+- TryHackMe: [https://tryhackme.com/p/SAMEERWALIA]
+- LinkedIn: [https://www.linkedin.com/in/sameer-waliaa/]
+
+---
+*This profile updates as I learn. Check my [journey repo](https://github.com/Sameerwalia07/cybersecurity-journey) for detailed writeups.*
+
